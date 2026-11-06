@@ -30,7 +30,7 @@ body {
 
 @keyframes textContrastShift {
   0% {
-    color: #1A5200;
+    color: lightblue;
   }
   100% {
     color: white;
@@ -39,7 +39,7 @@ body {
 
 @keyframes linkContrastShift {
   0% {
-    color: lightgreen;
+    color: lightpink;
   }
   100% {
     color: lightblue;
